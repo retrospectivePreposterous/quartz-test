@@ -1,17 +1,16 @@
-# Quartz v5
+# Quartz v5 - test
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Este test se ha creado a partir de https://github.com/jackyzha0/quartz (Use this template → Create a new repository).  
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Deploy
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Ha sido preciso crear .github/workflows/deploy.yml  , con el fin de crear un Actions para despliegue en Github Pages.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Edición
 
-## Sponsors
+Toda la edición se hace en el directorio "content", entendiendo que funciona como un Vault de Obsidian con wikilinks y enlaces, pero que puede visitarse en web y da pie a marcos colaborativos.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Navegación
+
+La web puede visitarse en https://retrospectivepreposterous.github.io/quartz-test/
+
