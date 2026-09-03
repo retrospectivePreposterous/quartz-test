@@ -1,9 +1,13 @@
 ---
-title: Inicio
+title: Booklet
 ---
 
-# Mi pequeño vault
+# Booklet
 
-Esta es mi primera prueba con Quartz.
+Una pequeña base de conocimiento experimental.
 
-Quiero visitar [[segunda]].
+## Explorar
+
+- [[brands/index|Marcas]]
+- [[people/dieter-rams|Dieter Rams]]
+- [[concepts/good-design|Good Design]]
